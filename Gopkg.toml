@@ -30,8 +30,8 @@
   version = "6.3.1"
 
 [[constraint]]
-  branch = "master"
   name = "github.com/sidleal/mqttout"
+  revision = "6f23391a5c695fa0e105595d9b754afc3251d167"
 
 [prune]
   go-tests = true
